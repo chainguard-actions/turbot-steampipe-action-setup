@@ -1,7 +1,0 @@
-{
-  "owner": "turbot",
-  "name": "steampipe-action-setup",
-  "visibility": "public",
-  "description": "Install Steampipe and add it to the PATH. Optionally install plugins and create plugin connection configurations.\n",
-  "block_publish": false
-}
