@@ -7,11 +7,11 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v1.5.0 | [`v1.5.0`](https://github.com/chainguard-actions/turbot-steampipe-action-setup/tree/v1.5.0) | [`7a4742f`](https://github.com/turbot/steampipe-action-setup/commit/7a4742f7c7f4682434cd4ac2f409adae402c5ef9) |
-| v1.5.1 | [`v1.5.1`](https://github.com/chainguard-actions/turbot-steampipe-action-setup/tree/v1.5.1) | [`6eb6f70`](https://github.com/turbot/steampipe-action-setup/commit/6eb6f70ab71fa9077411b50953865932768f1c40) |
-| v1.7.0 | [`v1.7.0`](https://github.com/chainguard-actions/turbot-steampipe-action-setup/tree/v1.7.0) | [`ea334bd`](https://github.com/turbot/steampipe-action-setup/commit/ea334bd03cc89b940db6b2daec94d0e0eab47dc0) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v1.5.0 | [`v1.5.0`](https://github.com/chainguard-actions/turbot-steampipe-action-setup/tree/v1.5.0) | [`7a4742f`](https://github.com/turbot/steampipe-action-setup/commit/7a4742f7c7f4682434cd4ac2f409adae402c5ef9) | [`HARDENING.md`](https://github.com/chainguard-actions/turbot-steampipe-action-setup/blob/v1.5.0/HARDENING.md) |
+| v1.5.1 | [`v1.5.1`](https://github.com/chainguard-actions/turbot-steampipe-action-setup/tree/v1.5.1) | [`6eb6f70`](https://github.com/turbot/steampipe-action-setup/commit/6eb6f70ab71fa9077411b50953865932768f1c40) | [`HARDENING.md`](https://github.com/chainguard-actions/turbot-steampipe-action-setup/blob/v1.5.1/HARDENING.md) |
+| v1.7.0 | [`v1.7.0`](https://github.com/chainguard-actions/turbot-steampipe-action-setup/tree/v1.7.0) | [`ea334bd`](https://github.com/turbot/steampipe-action-setup/commit/ea334bd03cc89b940db6b2daec94d0e0eab47dc0) | [`HARDENING.md`](https://github.com/chainguard-actions/turbot-steampipe-action-setup/blob/v1.7.0/HARDENING.md) |
 
 ## Privacy
 
